@@ -3,10 +3,20 @@
 한국 의료기관의 생성형 AI 검색 노출에 대한 종단 측정 및 분석 프로젝트.
 
 ## Researcher
-- **이름**: [김민정], RN
+- **이름**: 김민정(Kim MinJeong), RN
 - **소속**: [독립 연구자]
 - **전문 영역**: 임상 간호 + 의료 마케팅 + AI 측정 시스템 개발
 - **연구 시작일**: 2026-05-08
+
+## Abstract (English)
+
+This research project investigates citation patterns of Korean medical institutions 
+within generative AI search environments (ChatGPT, Claude, Perplexity, Gemini, 
+HyperCLOVA X). Using a self-developed measurement infrastructure (FORMEDI GEO Tracker), 
+the project conducts longitudinal observation of citation frequency, mention rank, 
+and cross-engine coverage, with special attention to Korean Medical Service Act 
+Article 56 compliance metadata as a trust signal. Conducted by an RN with clinical 
+and marketing field experience.
 
 ## 연구 배경
 ChatGPT, Claude, Perplexity, Gemini, HyperCLOVA X 등 생성형 AI 검색 환경에서 
@@ -59,7 +69,6 @@ ChatGPT, Claude, Perplexity, Gemini, HyperCLOVA X 등 생성형 AI 검색 환경
 - 측정 도구 코드: 비공개 (별도 라이선스 협의)
 
 ## 문의
-[alswjd4265@naver.com]
-
+alswjd4265@naver.com
 ---
 *Last updated: 2026-05-08*
